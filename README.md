@@ -12,7 +12,7 @@ https://ttop324test.web.app/
 npm install -g @vue/cli  
 vue create projectname              //set default  
 cd projectname  
-vue add vuetify		                //set default  
+vue add vuetify                     //set default  
     
    
 //run local server        
