@@ -7,7 +7,7 @@ https://ttop324test.web.app/
 
 # Environment setup
 
-```
+```javascript
 //initisalise  
 npm install -g @vue/cli  
 vue create projectname              //set default  
