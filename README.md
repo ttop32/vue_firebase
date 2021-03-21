@@ -22,11 +22,14 @@ npm run serve
 //deploy on firebase hosting  
 npm install -g firebase-tools  
 firebase login  
+    //before run, from https://console.firebase.google.com/  
+        //create account
+        //create project
 firebase init	  	                
-    //feature= hosting  
-    //existing project, select its project name,  
-        //create project from https://console.firebase.google.com/  
-    //public directory= dist  
+    //select features               hosting  
+    //select an option              existing project
+    //select firebase project       its project name
+    //public directory              dist  
     //just enter for remain  
 npm run build  
     //before run, add below on vue.config.js  
