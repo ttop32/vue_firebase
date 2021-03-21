@@ -1,6 +1,6 @@
 # vue_firebase
-use vue and vuetify with firebase hosting
-https://ttop324test.web.app/
+use vue and vuetify with firebase hosting  
+https://ttop324test.web.app/  
 
 # Result
 
