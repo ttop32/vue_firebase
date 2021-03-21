@@ -5,7 +5,7 @@ use vue and vuetify with firebase hosting
 # Result
 
 
-# Environment
+# Environment setup
 
 ```
 //initisalise  
@@ -50,3 +50,4 @@ firebase deploy --only hosting:sitename
   ```
 
 # Acknowledgement and References
+- [vue/firebase 이용해서 홈페이지 만들기](https://kyungsnim.net/137)  
