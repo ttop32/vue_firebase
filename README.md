@@ -7,7 +7,7 @@ use vue and vuetify with firebase hosting
 
 # Environment
 
-
+```
 //initisalise  
 npm install -g @vue/cli  
 vue create projectname              //set default  
@@ -47,6 +47,6 @@ firebase deploy --only hosting:sitename
         //    }   
         //}  
           
-  
+  ```
 
 # Acknowledgement and References
