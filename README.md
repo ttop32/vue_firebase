@@ -13,10 +13,12 @@ npm install -g @vue/cli
 vue create projectname              //set default  
 cd projectname  
 vue add vuetify		                //set default  
-  
+    
+   
 //run local server        
 npm run serve		  
-
+   
+   
 //deploy on firebase hosting  
 npm install -g firebase-tools  
 firebase login  
