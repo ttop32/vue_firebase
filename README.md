@@ -29,26 +29,26 @@ firebase init
     //public directory= dist  
     //just enter for remain  
 npm run build  
-    //add below on vue.config.js  
+    //before run, add below on vue.config.js  
         //module.exports = {  
         //  ... ,  
         //  publicPath: process.env.NODE_ENV === 'production'  ? './' : '/'   
         //}  
 firebase deploy --only hosting:sitename  
-    //create sitename     
-        //https://console.firebase.google.com/  
-        //select its projectname  
-        //select hosting   
-        //add another site  
-        //define sitename  
-    //add below on firebase.json     
-        //{  
-        //    "hosting": {  
-        //        "site": "sitename",  
-        //        ...  
-        //    }   
-        //}  
-          
+    //before run, 
+        //create sitename from https://console.firebase.google.com/  
+            //select its projectname  
+            //select hosting   
+            //add another site  
+            //define sitename  
+        //add below on firebase.json     
+            //{  
+            //    "hosting": {  
+            //        "site": "sitename",  
+            //        ...  
+            //    }   
+            //}  
+
   ```
 
 # Acknowledgement and References
