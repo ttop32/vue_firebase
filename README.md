@@ -3,7 +3,7 @@ use vue and vuetify with firebase hosting
 https://ttop324test.web.app/  
 
 # Result
-
+![result](doc/result1.png)
 
 # Environment setup
 
