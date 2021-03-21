@@ -55,4 +55,8 @@ firebase deploy --only hosting:sitename
   ```
 
 # Acknowledgement and References
+- [vue](https://vuejs.org/)  
+- [firebase](https://vuetifyjs.com/)  
+- [vuetify](https://firebase.google.com/)  
+
 - [vue/firebase 이용해서 홈페이지 만들기](https://kyungsnim.net/137)  
