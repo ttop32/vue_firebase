@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "ttop324test",
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
