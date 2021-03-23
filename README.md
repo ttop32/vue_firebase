@@ -1,6 +1,6 @@
 # vue_firebase
 - presonal environment setup note for vue and vuetify with firebase hosting  
-- - https://ttop324test.web.app/  
+    - https://ttop324test.web.app/  
 
 # Result
 ![result](doc/result1.jpg)
