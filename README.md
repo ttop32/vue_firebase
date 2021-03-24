@@ -1,5 +1,5 @@
 # vue_firebase
-presonal environment setup note for vue and vuetify with firebase hosting  
+environment setup presonal note for vue and vuetify with firebase hosting  
 https://ttop324test.web.app/  
 
 # Result
