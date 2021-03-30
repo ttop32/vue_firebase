@@ -10,8 +10,8 @@ https://ttop324test.web.app/
 ```javascript
 //initialise  
 npm install -g @vue/cli  
-vue create projectname              //set default  
-cd projectname  
+vue create PROJECTNAME              //set default  
+cd PROJECTNAME  
 vue add vuetify                     //set default  
     
    
@@ -28,7 +28,7 @@ firebase login
 firebase init	  	                
     //select features               hosting  
     //select an option              existing project
-    //select firebase project       its project name
+    //select firebase project       created project from https://console.firebase.google.com
     //public directory              dist  
     //just enter for remain  
 npm run build  
@@ -37,17 +37,17 @@ npm run build
         //  ... ,  
         //  publicPath: process.env.NODE_ENV === 'production'  ? './' : '/'   
         //}  
-firebase deploy --only hosting:sitename  
+firebase deploy --only hosting:SITENAME  
     //before run, 
         //create sitename from https://console.firebase.google.com/  
             //select its projectname  
             //select hosting   
-            //add another site  
-            //define sitename  
+            //click add another site  
+            //define SITENAME to your own site name  
         //add below on firebase.json     
             //{  
             //    "hosting": {  
-            //        "site": "sitename",  
+            //        "site": "SITENAME",  
             //        ...  
             //    }   
             //}  
